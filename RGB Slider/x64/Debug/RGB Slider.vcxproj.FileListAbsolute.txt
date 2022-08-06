@@ -1,0 +1,5 @@
+C:\Users\nagi1\source\repos\RGB Slider\RGB Slider\x64\Debug\RGB Slider.vcxproj.AssemblyReference.cache
+C:\Users\nagi1\source\repos\RGB Slider\RGB Slider\x64\Debug\RGB Slider.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\nagi1\source\repos\RGB Slider\RGB Slider\x64\Debug\RGBSlider.MyForm.resources
+C:\Users\nagi1\source\repos\RGB Slider\RGB Slider\x64\Debug\RGB Slider.vcxproj.GenerateResource.cache
+C:\Users\nagi1\source\repos\RGB Slider\RGB Slider\x64\Debug\RGB Slider.vcxproj.CopyComplete
